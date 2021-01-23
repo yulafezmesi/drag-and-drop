@@ -1,10 +1,12 @@
+import React from 'react'
+import Frame from './components/frame'
 import './index.css';
 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+    <main >
+      <Frame />
+    </main>
   );
 }
 
