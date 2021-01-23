@@ -4,8 +4,7 @@ This project allows you to assign an action to your calendar. Simply take one of
 
 ![Dragand Drop](https://s2.gifyu.com/images/React-App.gif)
 
-
-
+Demo: https://drag-and-drop-omega.vercel.app/
 
 ## Available Scripts
 
